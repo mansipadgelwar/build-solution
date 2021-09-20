@@ -1,2 +1,2 @@
-# neogcamp-build-solution
+# build-solution
  A repository to practice interview questions.
